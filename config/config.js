@@ -1,0 +1,1 @@
+module.exports.SEED = '^desarrollo$agitado@netflix';
